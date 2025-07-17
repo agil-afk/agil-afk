@@ -34,8 +34,8 @@ Saat ini saya sedang membuat sebuah **website café** sebagai bagian dari portof
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=agil-afk&repo=website-caffee&theme=radical" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=agil-afk&repo=absensi-pengadilan&theme=radical" /></td>
+    <td><img src="kopi.jpg" /></td>
+    <td><img src="" /></td>
   </tr>
 </table>
 
