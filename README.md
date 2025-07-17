@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="kopi.jpg" width="80%" alt="Website Caffee Preview" />
+  <img src="aw.jpg" width="80%" alt="Website Caffee Preview" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Halo! Saya **Agil Kantu**, seorang mahasiswa politeknik yang sedang fokus mempel
 ---
 
 ## 📸 Preview
-![Preview](https://github.com/agilkantu/website-caffee/blob/main/screenshot.png)
+![Preview](kopi.jpg)
 
 ---
 
