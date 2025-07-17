@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/agilkantu/website-caffee/blob/main/screenshot.png" width="80%" alt="Website Caffee Preview" />
+  <img src="kopi.jpg" width="80%" alt="Website Caffee Preview" />
 </p>
 
 ---
