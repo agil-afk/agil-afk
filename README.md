@@ -77,12 +77,5 @@ Saat ini saya sedang membuat sebuah **website café** sebagai bagian dari portof
   <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="200" />
 </p>
 
-<!-- CSS Animasi -->
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: scale(0.95); }
-  to { opacity: 1; transform: scale(1); }
-}
-</style>
 
 
