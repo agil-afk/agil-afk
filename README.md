@@ -35,7 +35,7 @@ Saat ini saya sedang membuat sebuah **website café** sebagai bagian dari portof
 <table>
   <tr>
     <td><img src="kopi.jpg" /></td>
-    <td><img src="" /></td>
+    <td><img src="Absensi_P.jpg" /></td>
   </tr>
 </table>
 
