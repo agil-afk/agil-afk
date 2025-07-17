@@ -44,7 +44,7 @@ Saat ini saya sedang membuat sebuah **website café** sebagai bagian dari portof
 ## 🏆 Sertifikat & Penghargaan
 
 - 🥇 [Dicoding: Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/...)
-- 🏅 [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/...)
+- 🏅 [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/Agil_Kantu/responsive-web-design)
 
 ---
 
