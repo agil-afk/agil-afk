@@ -2,8 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FE7F9C&width=435&lines=Hi%2C+I'm+Agil+Kantu!;Laravel+Enthusiast+%7C+Web+Developer;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
 </h1>
 
+<!-- Foto Pribadi dengan Efek -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
+  <img src="https://raw.githubusercontent.com/agil-afk/agil-afk/main/assets/profil.png"
+       width="120"
+       style="border-radius: 50%; box-shadow: 0 0 15px #FE7F9C; animation: fadeIn 2s ease-in-out;" 
+       alt="Agil Kantu Profile Picture"/>
 </p>
 
 <p align="center">
@@ -34,8 +38,8 @@ Saat ini saya sedang membuat sebuah **website café** sebagai bagian dari portof
 
 <table>
   <tr>
-    <td><img src="kopi.jpg" /></td>
-    <td><img src="Absensi_P.jpg" /></td>
+    <td><img src="kopi.jpg" width="300"/></td>
+    <td><img src="Absensi_P.jpg" width="300"/></td>
   </tr>
 </table>
 
@@ -72,4 +76,13 @@ Saat ini saya sedang membuat sebuah **website café** sebagai bagian dari portof
 <p align="center">
   <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="200" />
 </p>
+
+<!-- CSS Animasi -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+</style>
+
 
