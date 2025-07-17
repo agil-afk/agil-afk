@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**agil-afk/agil-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">☕ Hi, I'm Agil Kantu</h1>
+<p align="center">
+  <b>Laravel Enthusiast & Web Developer | Polytechnic Student</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/agilkantu/website-caffee/blob/main/screenshot.png" width="80%" alt="Website Caffee Preview" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 Tentang Saya
+Halo! Saya **Agil Kantu**, seorang mahasiswa politeknik yang sedang fokus mempelajari dan mengembangkan aplikasi web menggunakan **Laravel**. Saat ini saya sedang membuat sebuah **website café** sebagai bagian dari portofolio pengembangan web saya.
+
+---
+
+## 🚀 Proyek Saat Ini
+🧑‍💻 **Website Caffee** — Sebuah landing page interaktif untuk bisnis kopi. Proyek ini saya bangun dengan Laravel dan desain modern.
+
+---
+
+## 🛠 Teknologi yang Dikuasai
+- ⚙️ Laravel
+- 🖌️ HTML, CSS
+- 🧩 Blade Template Engine
+- 📦 Bootstrap
+- 💾 MySQL
+
+---
+
+## 📸 Preview
+![Preview](https://github.com/agilkantu/website-caffee/blob/main/screenshot.png)
+
+---
+
+## 📬 Hubungi Saya
+- 📸 Instagram: [@agilkantuu](https://www.instagram.com/agilkantuu?igsh=MXEwbjFtZDk3YTVhMg%3D%3D&utm_source=qr)
+- 🌍 GitHub: [@agilkantu](https://github.com/agilkantu)
+
+---
+
+## ❤️ Terima Kasih
+Terima kasih sudah mengunjungi profil saya! Jangan lupa beri ⭐ di proyek saya kalau kamu suka. Feedback juga sangat saya hargai.
+
+---
+
+## Lisensi
+MIT © 2025 Agil Kantu
