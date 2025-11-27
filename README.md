@@ -11,39 +11,16 @@
 </p>
 
 <p align="center">
-  <b>Laravel Enthusiast & Web Developer | Polytechnic Student</b><br>
-  <a href="https://github.com/agil-afk/website-caffee" target="_blank">
-    🚀 Website Caffee Preview
-  </a>
+  <b>Polytechnic Student</b><br>
 </p>
 
 ---
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Agil Kantu**, seorang mahasiswa politeknik yang sedang fokus mempelajari dan mengembangkan aplikasi web menggunakan **Laravel**.  
-Saat ini saya sedang membuat sebuah **website café** sebagai bagian dari portofolio pengembangan web saya.
+Halo! Saya **Mohamad Agil Saputra Kantu**, seorang mahasiswa Politeknik Negeri Manado yang sedang fokus mempelajari dan mengembangkan aplikasi web.
 
----
 
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,bootstrap,mysql,vscode,github&theme=dark" />
-</p>
-
----
-
-## 🌟 Proyek Unggulan
-
-<table>
-  <tr>
-    <td><img src="kopi.jpg" width="300"/></td>
-    <td><img src="Absensi_P.jpg" width="300"/></td>
-  </tr>
-</table>
-
----
 
 ## 🏆 Sertifikat & Penghargaan
 
